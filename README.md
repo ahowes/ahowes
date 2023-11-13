@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahowes
 - 👀 I’m interested in Apple, the Red Sox, and music
 - 🌱 I’m currently learning Golang
-- 📫 (https://mastodon.social/@ahowes)[@ahowes@mastodon.social]
+- 📫 [@ahowes@mastodon.social](https://mastodon.social/@ahowes)
 
 <!---
 ahowes/ahowes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
